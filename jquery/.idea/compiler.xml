@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com.jquery.demo" />
         <module name="jquery" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.jquery.demo" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
