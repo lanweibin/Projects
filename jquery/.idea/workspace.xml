@@ -139,10 +139,17 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="1942" />
     <option name="height" value="1042" />
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
+>>>>>>> 673db06b9051b25fda7ab0419ff342c18fd6acc8
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -368,16 +375,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540467580847</updated>
+<<<<<<< HEAD
+      <workItem from="1540467592418" duration="5996000" />
+=======
       <workItem from="1540467592418" duration="5941000" />
+<<<<<<< HEAD
       <workItem from="1540654655384" duration="8955000" />
+=======
+      <workItem from="1540654655384" duration="3773000" />
+>>>>>>> 7970dbc507505f2a05e4f9ccf3f6a499cf609b21
+>>>>>>> 673db06b9051b25fda7ab0419ff342c18fd6acc8
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="14896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="5996000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="9714000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+>>>>>>> 7970dbc507505f2a05e4f9ccf3f6a499cf609b21
+>>>>>>> 673db06b9051b25fda7ab0419ff342c18fd6acc8
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
