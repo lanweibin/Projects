@@ -13,7 +13,7 @@ public class ListAndMap {
     public void test(){
         Map<String,String> map1 = new HashMap<>();
         Map<String,String> map2 = new HashMap<>();
-        Map<String, String> map3 = new HashMap<>();
+        Map<String,String> map3 = new HashMap<>();
         map1.put("1","111111111");
         map1.put("2","2222222222");
         map1.put("3","33333333");

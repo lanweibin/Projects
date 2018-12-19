@@ -27,8 +27,6 @@ public class ListDemo {
         list.add(s2);
         list.add(s3);
 
-
-
         List<Student> list1 = new ArrayList<>();
 
         for (int i = 0; i < list.size(); i++) {
