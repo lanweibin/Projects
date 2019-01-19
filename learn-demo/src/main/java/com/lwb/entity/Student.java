@@ -6,7 +6,13 @@ public class Student {
     private String age;
     private String address;
 
+    public Student() {
+    }
 
+    public Student(String name, String age) {
+        this.name = name;
+        this.age = age;
+    }
 
     public String getName() {
         return name;
