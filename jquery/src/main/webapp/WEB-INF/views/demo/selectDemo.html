@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="../../../static/jquery/jquery-3.0.0.js"></script>
+</head>
+<body>
+<div id="content">
+    <select name="" id="select">
+        <option value="1" selected="selected">香蕉</option>
+        <option value="2">苹果</option>
+        <option value="3">哈密华</option>
+    </select>
+</div>
+<div id="add">点我切换</div>
+</body>
+
+<script type="text/javascript">
+    $("#add").click(function () {
+        $("#select").val("3");
+    })
+
+    window.onload=function () {
+        $("#select").val("3");
+    }
+</script>
+</html>

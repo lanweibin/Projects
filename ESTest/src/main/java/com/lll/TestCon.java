@@ -21,18 +21,20 @@ public class TestCon {
         System.out.println(client);
 
 
-        JsonObject jsonObject = new JsonObject();
-        jsonObject.addProperty("name","编程思想");
-        jsonObject.addProperty("publishDate","2012-11-11");
-        jsonObject.addProperty("price","100");
-
-        IndexResponse response = client.prepareIndex("book", "java", "1")
-                .setSource(jsonObject.toString(), XContentType.JSON).get();
-
-        System.out.println("索引名称：" + response.getIndex());
-        System.out.println("类型：" + response.getType());
-        System.out.println("文档Id：" + response.getId());
-        System.out.println("当前实例状态：" + response.status());
+//        JsonObject jsonObject = new JsonObject();
+//        jsonObject.addProperty("name","编程思想");
+//        jsonObject.addProperty("publishDate","2012-11-11");
+//        jsonObject.addProperty("price","100");
+//
+//        IndexResponse response = client.prepareIndex("book", "java", "1")
+//                .setSource(jsonObject.toString(), XContentType.JSON).get();
+//
+//        System.out.println("索引名称：" + response.getIndex());
+//        System.out.println("类型：" + response.getType());
+//        System.out.println("文档Id：" + response.getId());
+//        System.out.println("当前实例状态：" + response.status());
+//
+//        System.out.println(response);
 
         client.close();
     }
