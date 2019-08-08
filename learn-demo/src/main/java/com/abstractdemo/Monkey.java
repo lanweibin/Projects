@@ -11,6 +11,6 @@ public class Monkey extends Person {
 
     @Override
     void work() {
-        System.out.println("敲代码");
+        System.out.println("皇帝");
     }
 }
