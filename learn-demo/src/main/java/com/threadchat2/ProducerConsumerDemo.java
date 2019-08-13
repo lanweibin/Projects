@@ -20,11 +20,15 @@ public class ProducerConsumerDemo {
         Consumer con = new Consumer(r);
 
         //创建线程
+        Thread t0 = new Thread(pro);
         Thread t1 = new Thread(pro);
         Thread t2 = new Thread(con);
+        Thread t3 = new Thread(con);
 
+        t0.start();
         t1.start();
         t2.start();
+        t3.start();
 
     }
 }
