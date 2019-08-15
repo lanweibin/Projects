@@ -9,5 +9,8 @@
         <module name="com.lwb" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.jquery.demo" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

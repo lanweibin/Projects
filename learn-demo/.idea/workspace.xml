@@ -4,10 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc596b3-4e47-451b-a915-60d1daed5c91" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ecc596b3-4e47-451b-a915-60d1daed5c91" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../jquery/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/threadchat3/Res.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
@@ -31,10 +30,43 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/compare/CompareableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#792#1064#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/compare/Goods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+              <folding>
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/threadchat3/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="396">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
@@ -71,8 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/lwb/collection/list/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwb/entity/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwb/collection/map/Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/ProducerTest.java" />
@@ -122,6 +152,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/threadchat2/Res.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/threadchat3/Producer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/threadchat3/Res.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/compare/Goods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/compare/CompareableTest.java" />
       </list>
     </option>
   </component>
@@ -140,50 +172,14 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565773053562" />
-    <property name="last_opened_file_path" value="E:/Lczy/cs-portrait" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565836062435" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jquery" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -210,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProducerConsumerDemo (2)">
+  <component name="RunManager" selected="JUnit.CompareableTest.test1">
     <configuration name="ProducerConsumerDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.threadchat2.ProducerConsumerDemo" />
       <module name="com.lwb" />
@@ -250,29 +246,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.reflect.ReflectDemo3" />
+    <configuration name="CompareableTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.lwb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.reflect.*" />
+          <option name="PATTERN" value="com.compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.compare" />
+      <option name="MAIN_CLASS_NAME" value="com.compare.CompareableTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectDemo2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CompareableTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.lwb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.reflect.*" />
+          <option name="PATTERN" value="com.compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.reflect" />
-      <option name="MAIN_CLASS_NAME" value="com.reflect.ReflectDemo2" />
+      <option name="PACKAGE_NAME" value="com.compare" />
+      <option name="MAIN_CLASS_NAME" value="com.compare.CompareableTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -281,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CompareableTest.test1" />
+        <item itemvalue="JUnit.CompareableTest.test" />
         <item itemvalue="Application.ProducerConsumerDemo (2)" />
         <item itemvalue="Application.ProducerConsumerDemo (1)" />
         <item itemvalue="Application.ProducerConsumerDemo" />
-        <item itemvalue="Application.ReflectDemo3" />
-        <item itemvalue="JUnit.ReflectDemo2.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +327,7 @@
       <workItem from="1564730791829" duration="1197000" />
       <workItem from="1565252221916" duration="11245000" />
       <workItem from="1565334419825" duration="11227000" />
-      <workItem from="1565831810264" duration="251000" />
+      <workItem from="1565831810264" duration="3056000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1547880590384</created>
@@ -372,43 +371,50 @@
       <option name="project" value="LOCAL" />
       <updated>1565667493052</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="多生产多消费">
+      <created>1565832083670</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565832083670</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="reflectDemo1_test - 2019.08.08 at 16h 51m 25s.xml">
-      <configuration name="reflectDemo1.test" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test - 2019.08.15 at 09h 34m 40s.xml">
+      <configuration name="CompareableTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="reflectDemo1_test - 2019.08.08 at 16h 51m 51s.xml">
-      <configuration name="reflectDemo1.test" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test - 2019.08.15 at 09h 35m 01s.xml">
+      <configuration name="CompareableTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="reflectDemo1_test2 - 2019.08.08 at 16h 54m 24s.xml">
-      <configuration name="reflectDemo1.test2" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test - 2019.08.15 at 09h 38m 30s.xml">
+      <configuration name="CompareableTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="reflectDemo1_test2 - 2019.08.08 at 16h 54m 29s.xml">
-      <configuration name="reflectDemo1.test2" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test1 - 2019.08.15 at 10h 05m 50s.xml">
+      <configuration name="CompareableTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="reflectDemo1_test2 - 2019.08.08 at 16h 56m 35s.xml">
-      <configuration name="reflectDemo1.test2" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test1 - 2019.08.15 at 10h 06m 08s.xml">
+      <configuration name="CompareableTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReflectDemo2_test1 - 2019.08.08 at 17h 41m 04s.xml">
-      <configuration name="ReflectDemo2.test1" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test - 2019.08.15 at 10h 06m 39s.xml">
+      <configuration name="CompareableTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReflectDemo2_test1 - 2019.08.08 at 17h 41m 31s.xml">
-      <configuration name="ReflectDemo2.test1" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test1 - 2019.08.15 at 10h 06m 52s.xml">
+      <configuration name="CompareableTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReflectDemo2_test1 - 2019.08.08 at 17h 41m 42s.xml">
-      <configuration name="ReflectDemo2.test1" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test1 - 2019.08.15 at 10h 07m 14s.xml">
+      <configuration name="CompareableTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReflectDemo2_test1 - 2019.08.08 at 17h 48m 22s.xml">
-      <configuration name="ReflectDemo2.test1" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test1 - 2019.08.15 at 10h 07m 29s.xml">
+      <configuration name="CompareableTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReflectDemo2_test1 - 2019.08.08 at 17h 49m 04s.xml">
-      <configuration name="ReflectDemo2.test1" configurationId="JUnit" />
+    <history-entry file="CompareableTest_test1 - 2019.08.15 at 10h 07m 50s.xml">
+      <configuration name="CompareableTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91894000" />
+    <option name="totallyTimeSpent" value="94699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -423,7 +429,7 @@
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49865952" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49463806" weight="0.6713881" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49463806" visible="true" weight="0.44334278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4348442" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -551,24 +557,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/threaddemo/part4/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/threaddemo/part2/TicketTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/threaddemo/part5deadlock/DeadLock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -938,17 +926,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/threadchat3/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/threadchat3/ProducerConsumerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/threadchat3/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compare/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compare/CompareableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#792#1064#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
