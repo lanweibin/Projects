@@ -14,14 +14,7 @@ import java.util.stream.Collectors;
 public class aaa {
 
     public static void main(String[] args) {
-         List<Integer> lists = new ArrayList<>();
-         lists.add(1);
-         lists.add(2);
-        System.out.println(lists.size());
-
-        for (int i = 0; i < lists.size(); i++) {
-            System.out.println(i);
-        }
+        System.out.println("222222222222222");
     }
 
 

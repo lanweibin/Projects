@@ -4,14 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc596b3-4e47-451b-a915-60d1daed5c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test2/demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aaa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entity/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/reflect/ReflectDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reflect/ReflectDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/threaddemo/part1/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/threaddemo/part1/ThreadDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="ecc596b3-4e47-451b-a915-60d1daed5c91" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../jquery/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +21,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aaa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="580">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -205,7 +201,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613101673658" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625908566286" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jquery" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -304,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aaa" />
-        <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.demo2" />
-        <item itemvalue="Application.Lambda" />
         <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.Lambda" />
+        <item itemvalue="Application.demo2" />
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.aaa" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +366,7 @@
       <workItem from="1611926787766" duration="760000" />
       <workItem from="1613100752710" duration="952000" />
       <workItem from="1624627512073" duration="2076000" />
-      <workItem from="1625904368379" duration="823000" />
+      <workItem from="1625904368379" duration="1118000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1547880590384</created>
@@ -428,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565836099385</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="compareable 与 comparetor">
+      <created>1625908208741</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1625908208741</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -464,7 +467,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130451000" />
+    <option name="totallyTimeSpent" value="130746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -1001,8 +1004,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aaa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="580">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
