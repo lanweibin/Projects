@@ -1,6 +1,11 @@
 package com.reflect;
 
+import com.entity.Person;
+import org.junit.Test;
+
 import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * @program: learn-demo
@@ -55,6 +60,7 @@ public class ReflectDemo3 {
         Method method = clazz.getMethod("show");
         method.invoke(obj, null);
     }
+
 
 
 

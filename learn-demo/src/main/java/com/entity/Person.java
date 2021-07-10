@@ -10,7 +10,18 @@ public class Person {
     private String name;
     private String age;
 
+    private Integer  voteNum;
+
     public Person() {
+    }
+
+
+    public Integer getVoteNum() {
+        return voteNum;
+    }
+
+    public void setVoteNum(Integer voteNum) {
+        this.voteNum = voteNum;
     }
 
     public Person(String name, String age) {

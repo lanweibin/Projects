@@ -11,9 +11,9 @@ public class ThreadDemo {
         d1.start();
         d2.start();
 
-        for (int i = 0; i < 40; i++) {
-            System.out.println(Thread.currentThread().getName()+"-------"+ i);
-
-        }
+        //for (int i = 0; i < 40; i++) {
+        //    System.out.println(Thread.currentThread().getName()+"-------"+ i);
+        //
+        //}
     }
 }
