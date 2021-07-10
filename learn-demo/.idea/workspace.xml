@@ -4,7 +4,11 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc596b3-4e47-451b-a915-60d1daed5c91" name="Default Changelist" comment="" />
+    <list default="true" id="ecc596b3-4e47-451b-a915-60d1daed5c91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aaa.java" afterDir="false" />
+    </list>
+    <list id="46a35868-46f2-49c0-94b1-2c937f8af7c9" name="Revert: Merge branch 'demo2'" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../jquery/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aaa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-136">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -148,7 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -183,25 +183,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625908566286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625909473291" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jquery" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -431,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625908208741</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge branch 'demo2'&#10;&#10;# Conflicts:&#10;#&#9;learn-demo/src/main/java/com/aaa.java">
+      <created>1625909119220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1625909119220</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -467,7 +466,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130746000" />
+    <option name="totallyTimeSpent" value="131270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -490,10 +489,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49731904" visible="true" weight="0.11368209" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5053619" side_tool="true" weight="0.3101983" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49550897" weight="0.57746476" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50449103" side_tool="true" weight="0.38128772" />
       <window_info anchor="bottom" id="JRebel Console" order="11" sideWeight="0.5020107" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49597856" weight="0.32152975" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.49597856" visible="true" weight="0.59054327" />
       <window_info anchor="bottom" id="Problems" order="13" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49798927" weight="0.3279678" />
@@ -570,6 +569,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -597,12 +604,13 @@
     <MESSAGE value="。。。。。。。。。" />
     <MESSAGE value="多生产多消费" />
     <MESSAGE value="compareable 与 comparetor" />
-    <option name="LAST_COMMIT_MESSAGE" value="compareable 与 comparetor" />
+    <MESSAGE value="Merge branch 'demo2'&#10;&#10;# Conflicts:&#10;#&#9;learn-demo/src/main/java/com/aaa.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'demo2'&#10;&#10;# Conflicts:&#10;#&#9;learn-demo/src/main/java/com/aaa.java" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="565" height="578" key="Git.Branch.Popup" />
-    <state width="565" height="578" key="Git.Branch.Popup/2560.1440" />
-    <state width="565" height="578" key="Git.Branch.Popup@2560.1440@120dpi" />
+    <state width="572" height="585" key="Git.Branch.Popup" />
+    <state width="572" height="585" key="Git.Branch.Popup/2560.1440" />
+    <state width="572" height="585" key="Git.Branch.Popup@2560.1440@120dpi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1004,11 +1012,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aaa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-136">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
